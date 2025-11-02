@@ -4,7 +4,7 @@ Easily install or update the **Devourment-mod** for Rain World in one command!
 
 ### Quick Start
 
-#### Just download and run [RWDUpdater.bat](https://raw.githubusercontent.com/Foxydroid/RWDUpdater/refs/heads/main/RWDUpdater.bat)
+#### Just download and run [RWDUpdater.bat](https://github.com/Foxydroid/RWDUpdater/blob/main/RWDUpdater.bat)
 
 or
 
